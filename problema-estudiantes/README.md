@@ -40,3 +40,12 @@ El siguiente diagrama representa el flujo general del sistema de gestión de est
 ## Análisis de complejidad
 
 En esta sección se analiza el costo computacional del sistema de gestión de estudiantes, teniendo en cuenta el tiempo de ejecución de las operaciones principales según el número de estudiantes registrados.
+
+### Costo computacional (tiempo)
+
+El tiempo de ejecución del sistema depende principalmente del número de estudiantes registrados.  
+Cada una de las operaciones realiza un conjunto de acciones que pueden variar en costo según el tamaño de la lista de estudiantes.
+
+Registrar un estudiante implica agregar su información a la lista, lo cual no requiere recorrer los datos existentes.
+
+Consultar, actualizar o eliminar un estudiante requiere buscarlo dentro de la lista, lo que puede implicar recorrer varios elementos hasta encontrar el estudiante deseado.
