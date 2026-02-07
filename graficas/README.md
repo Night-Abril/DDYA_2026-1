@@ -7,3 +7,4 @@ Se incluyen:
 - Gráfica del peor caso
 
 Las gráficas fueron elaboradas utilizando GeoGebra y representan el crecimiento del costo computacional en función del tamaño de la entrada.
+
