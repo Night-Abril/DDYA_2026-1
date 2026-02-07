@@ -85,11 +85,11 @@ A continuación se presentan las gráficas que representan el comportamiento del
 
 **Mejor caso O(1):**
 
-[Mejor caso O(1)](<img width="3000" height="1703" alt="Mejor caso O(1)" src="https://github.com/user-attachments/assets/b74db6f8-82f5-44c5-9011-2d0ad7bb3af8" /> )
+<img width="3000" height="1703" alt="Mejor caso O(1)" src="https://github.com/user-attachments/assets/ee568377-af50-45b6-b028-f68a1932046f" />
 
 **Peor caso O(n):**
 
-[Peor caso O(n)](<img width="3000" height="1703" alt="Peor caso O(n)" src="https://github.com/user-attachments/assets/fa74c871-156d-436d-b8f5-e07988814669" /> )
+<img width="3000" height="1703" alt="Peor caso O(n)" src="https://github.com/user-attachments/assets/b2f41525-2b0f-44a3-b3cf-eb277a315d3c" />
 
 Las gráficas fueron elaboradas utilizando GeoGebra y representan el crecimiento del costo computacional en función del tamaño de la entrada.
 
