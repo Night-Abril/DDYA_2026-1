@@ -93,3 +93,10 @@ A continuación se presentan las gráficas que representan el comportamiento del
 
 Las gráficas fueron elaboradas utilizando GeoGebra y representan el crecimiento del costo computacional en función del tamaño de la entrada.
 
+### Análisis propio
+
+A partir del análisis realizado, se puede concluir que el sistema es eficiente para un número moderado de estudiantes.  
+Las operaciones de registro presentan un costo constante, mientras que las operaciones de consulta, actualización y eliminación dependen linealmente del tamaño de la lista.
+
+Para volúmenes de datos pequeños o medianos, este enfoque es adecuado y fácil de implementar. Sin embargo, para sistemas con una gran cantidad de estudiantes, sería recomendable utilizar estructuras de datos más eficientes que reduzcan el tiempo de búsqueda.
+
