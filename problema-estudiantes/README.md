@@ -36,3 +36,7 @@ Este sistema busca optimizar el manejo de la información estudiantil y servir c
 El siguiente diagrama representa el flujo general del sistema de gestión de estudiantes, mostrando las opciones disponibles y el comportamiento del sistema según la opción seleccionada por el usuario.
 
 [Diagrama de flujo del sistema de estudiantes](https://github.com/Night-Abril/DDYA_2026-1/tree/Semana-2/problema-estudiantes/diagramas-flujo#diagramas-de-flujo)
+
+## Análisis de complejidad
+
+En esta sección se analiza el costo computacional del sistema de gestión de estudiantes, teniendo en cuenta el tiempo de ejecución de las operaciones principales según el número de estudiantes registrados.
