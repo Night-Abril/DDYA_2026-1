@@ -10,9 +10,7 @@ Repositorio académico del curso **Diseño de Datos y Algoritmos** (DDYA) de la 
 
 ---
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> [📂 𝑺𝒆𝒎𝒂𝒏𝒂 2](./semana-2/)
-#### En la siguiente carpeta se visualizara el trabajoc solicitado.
-Contiene: 
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px>
 - Análisis de complejidad de algoritmos iterativos
 - Diagramas de flujo
 - Implementación de algoritmos de ordenamiento
