@@ -48,6 +48,7 @@ Este proyecto es de uso académico. Todos los derechos reservados.
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> 𝑪𝒐𝒍𝒂𝒃𝒐𝒓𝒂𝒅𝒐𝒓𝒆𝒔
 - [jgaravitomejia](https://github.com/jgaravitomejia)
 - [lailazromanog](https://github.com/lailazromanog)
+- Edward Francia
 
 ---
 ## 𝑼𝒍𝒕𝒊𝒎𝒂 𝒂𝒄𝒕𝒖𝒂𝒍𝒊𝒛𝒂𝒄𝒊𝒐𝒏
