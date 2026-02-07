@@ -49,3 +49,14 @@ Cada una de las operaciones realiza un conjunto de acciones que pueden variar en
 Registrar un estudiante implica agregar su información a la lista, lo cual no requiere recorrer los datos existentes.
 
 Consultar, actualizar o eliminar un estudiante requiere buscarlo dentro de la lista, lo que puede implicar recorrer varios elementos hasta encontrar el estudiante deseado.
+
+### Notación Big-O
+
+Considerando que los estudiantes se almacenan en una lista, la complejidad temporal de las operaciones del sistema es la siguiente:
+
+- Registrar estudiante: O(1), ya que solo se agrega un nuevo elemento a la lista.
+- Consultar estudiante: O(n), debido a que puede ser necesario recorrer toda la lista para encontrar al estudiante.
+- Actualizar estudiante: O(n), porque primero se debe buscar al estudiante en la lista.
+- Eliminar estudiante: O(n), ya que se requiere localizar al estudiante antes de eliminarlo.
+
+En el peor caso, el comportamiento del sistema está dominado por las operaciones de búsqueda, por lo que la complejidad temporal total del sistema es O(n).
