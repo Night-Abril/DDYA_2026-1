@@ -19,3 +19,9 @@ Con el fin de garantizar la correcta visualización del contenido directamente d
 - `ejercicio-pesky.md`
 - `ejercicio-prestiferous.md`
 - `insertion-sort-descendente.md`
+
+
+
+#### Nota
+Este trabajo fue desarrollado siguiendo las instrucciones del laboratorio de la semana 2, enfocándose en el diseño del problema, el análisis de complejidad y los diagramas de flujo solicitados. La implementación en código no formó parte de los requerimientos de este laboratorio.
+
