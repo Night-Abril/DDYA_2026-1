@@ -70,3 +70,11 @@ En este escenario, el tiempo de ejecución no depende del número de estudiantes
 
 **Complejidad en el mejor caso:** O(1)
 
+### Peor caso
+
+El peor caso ocurre cuando el sistema debe recorrer completamente la lista de estudiantes para realizar una operación.  
+Esto sucede cuando el estudiante buscado no se encuentra en el registro o cuando se encuentra en la última posición de la lista.
+
+En este escenario, el tiempo de ejecución aumenta proporcionalmente al número de estudiantes registrados.
+
+**Complejidad en el peor caso:** O(n)
