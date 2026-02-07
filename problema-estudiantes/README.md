@@ -100,3 +100,5 @@ Las operaciones de registro presentan un costo constante, mientras que las opera
 
 Para volúmenes de datos pequeños o medianos, este enfoque es adecuado y fácil de implementar. Sin embargo, para sistemas con una gran cantidad de estudiantes, sería recomendable utilizar estructuras de datos más eficientes que reduzcan el tiempo de búsqueda.
 
+#### Nota
+Este trabajo fue desarrollado siguiendo las instrucciones del laboratorio de la semana 2, enfocándose en el diseño del problema, el análisis de complejidad y los diagramas de flujo solicitados. La implementación en código no formó parte de los requerimientos de este laboratorio.
