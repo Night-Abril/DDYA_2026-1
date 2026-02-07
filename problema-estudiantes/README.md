@@ -60,3 +60,13 @@ Considerando que los estudiantes se almacenan en una lista, la complejidad tempo
 - Eliminar estudiante: O(n), ya que se requiere localizar al estudiante antes de eliminarlo.
 
 En el peor caso, el comportamiento del sistema está dominado por las operaciones de búsqueda, por lo que la complejidad temporal total del sistema es O(n).
+
+### Mejor caso
+
+El mejor caso ocurre cuando el sistema no necesita recorrer la lista de estudiantes para realizar una operación.  
+Esto sucede, por ejemplo, cuando se registra un nuevo estudiante o cuando el estudiante buscado se encuentra en la primera posición de la lista.
+
+En este escenario, el tiempo de ejecución no depende del número de estudiantes registrados, ya que se realizan pocas operaciones.
+
+**Complejidad en el mejor caso:** O(1)
+
