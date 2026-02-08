@@ -7,4 +7,4 @@ El programa permite:
 - Calcular el promedio de las notas
 - Mostrar los estudiantes con nota mayor o igual al promedio
 
-Este código corresponde al diseño y análisis realizados en el laboratorio de la semana 2.
+Esta implementación en Python se incluye como apoyo al diseño y análisis desarrollados en el laboratorio de la semana 2, siguiendo las instrucciones establecidas para dicha actividad.
