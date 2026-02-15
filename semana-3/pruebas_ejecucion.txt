@@ -1,0 +1,14 @@
+Ejemplo de ejecución
+
+Entrada:
+  Registrar estudiantes:
+  Ana – 4.5
+  Luis – 3.8
+  Carlos – 4.2
+
+Buscar estudiante:
+  Nombre: Luis
+    Resultado: Estudiante encontrado – Promedio 3.8
+
+Calcular promedio general:
+  Resultado: 4.16
