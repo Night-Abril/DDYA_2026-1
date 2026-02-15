@@ -91,4 +91,4 @@ La implementación mejora significativamente la búsqueda respecto a la versión
 
 El uso de Programación Dinámica optimiza el cálculo del promedio evitando recorrer toda la lista en cada consulta.
 
-Para grandes volúmenes de datos, se podría mejorar aún más utilizando estructuras como árboles balanceados o tablas hash.
+
